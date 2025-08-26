@@ -1,0 +1,57 @@
+# Python
+app/__pycache__/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+
+# Virtualenv
+venv/
+env/
+.venv/
+
+# VS Code settings (optional)
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.bak
+*.tmp
+*.swp
+
+# ChromaDB data
+chroma_db/
+data/vectors/
+
+# Data or uploads (if dynamically generated)
+data/
+uploads/
+
+# Environment/config files
+.env
+.env.*
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Compiled C extensions
+build/
+dist/
+*.egg-info/
+*.so
+
+# Test outputs
+tests/__pycache__/
+.coverage
+htmlcov/
+.tox/
+pytest_cache/
+
+# Other IDEs (optional)
+.idea/
