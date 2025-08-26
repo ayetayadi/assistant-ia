@@ -1,3 +1,6 @@
+## 🚀 Description
+Ce projet constitue la partie frontend d’un assistant intelligent développé pour Capgemini Engineering dans le cadre du Cahier des Charges – Spécifications Fonctionnelles Détaillées (SFD).
+
 # Frontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.1.
